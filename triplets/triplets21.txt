@@ -1,0 +1,17 @@
+[
+    {"sujeto": "Denver Nuggets", "predicado": "defienden título", "objeto": "NBA Playoffs 2024"},
+    {"sujeto": "Boston Celtics", "predicado": "enfrentan", "objeto": "Cleveland Cavaliers"},
+    {"sujeto": "New York Knicks", "predicado": "enfrentan", "objeto": "Indiana Pacers"},
+    {"sujeto": "Oklahoma City Thunder", "predicado": "enfrentan", "objeto": "Dallas Mavericks"},
+    {"sujeto": "Denver Nuggets", "predicado": "enfrentan", "objeto": "Minnesota Timberwolves"},
+    {"sujeto": "Boston Celtics", "predicado": "vencieron", "objeto": "Miami Heat"},
+    {"sujeto": "New York Knicks", "predicado": "vencieron", "objeto": "Philadelphia 76ers"},
+    {"sujeto": "Indiana Pacers", "predicado": "vencieron", "objeto": "Milwaukee Bucks"},
+    {"sujeto": "Cleveland Cavaliers", "predicado": "vencieron", "objeto": "Orlando Magic"},
+    {"sujeto": "Oklahoma City Thunder", "predicado": "vencieron", "objeto": "New Orleans Pelicans"},
+    {"sujeto": "Denver Nuggets", "predicado": "vencieron", "objeto": "Los Angeles Lakers"},
+    {"sujeto": "Minnesota Timberwolves", "predicado": "vencieron", "objeto": "Phoenix Suns"},
+    {"sujeto": "Dallas Mavericks", "predicado": "vencieron", "objeto": "LA Clippers"},
+    {"sujeto": "Movistar Plus+", "predicado": "transmite", "objeto": "NBA Playoffs 2024"},
+    {"sujeto": "NBA League Pass", "predicado": "permite acceso", "objeto": "NBA Playoffs 2024"}
+]

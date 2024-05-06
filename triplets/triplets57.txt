@@ -1,0 +1,11 @@
+[
+    {"sujeto": "Melilla Ciudad del Deporte", "predicado": "compite para evitar", "objeto": "descenso a LEB Plata"},
+    {"sujeto": "Amics Castelló", "predicado": "compite para evitar", "objeto": "descenso a LEB Plata"},
+    {"sujeto": "Cáceres", "predicado": "ya descendido a", "objeto": "LEB Plata"},
+    {"sujeto": "Rioverde Clavijo", "predicado": "ya descendido a", "objeto": "LEB Plata"},
+    {"sujeto": "Melilla Ciudad del Deporte", "predicado": "jugará contra", "objeto": "Leyma Coruña"},
+    {"sujeto": "Amics Castelló", "predicado": "jugará contra", "objeto": "Grupo Alega Cantabria"},
+    {"sujeto": "Melilla Ciudad del Deporte", "predicado": "seguirá en LEB Oro si", "objeto": "gana su partido y Amics Castelló pierde ante Cantabria"},
+    {"sujeto": "Melilla Ciudad del Deporte", "predicado": "seguirá en LEB Oro si", "objeto": "pierde su partido y Amics Castelló también cae"},
+    {"sujeto": "Amics Castello", "predicado": "seguirá en LEB Oro si", "objeto": "gana su partido"}
+]

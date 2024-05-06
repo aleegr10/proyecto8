@@ -1,0 +1,8 @@
+[
+    {"sujeto": "Guía NBA 23-24", "predicado": "publicado por", "objeto": "Gigantes del Basket S.L."},
+    {"sujeto": "Guía NBA 23-24", "predicado": "tiene número de páginas", "objeto": "100"},
+    {"sujeto": "Guía NBA 23-24", "predicado": "idioma", "objeto": "Castellano"},
+    {"sujeto": "Alejandro Gaitán", "predicado": "es autor de", "objeto": "Guía NBA 23-24"},
+    {"sujeto": "Enrique García", "predicado": "es autor de", "objeto": "Guía NBA 23-24"},
+    {"sujeto": "Gonzalo Vázquez", "predicado": "es autor de", "objeto": "Guía NBA 23-24"}
+]

@@ -1,0 +1,14 @@
+[
+    {"sujeto": "Joventut Badalona", "predicado": "ascendió a", "objeto": "Liga Femenina Endesa"},
+    {"sujeto": "Joventut Badalona", "predicado": "venció a", "objeto": "CAB Estepona"},
+    {"sujeto": "Joventut Badalona", "predicado": "anotó", "objeto": "64 puntos"},
+    {"sujeto": "CAB Estepona", "predicado": "anotó", "objeto": "55 puntos"},
+    {"sujeto": "Alima Dembele", "predicado": "anotó", "objeto": "18 puntos"},
+    {"sujeto": "Alima Dembele", "predicado": "capturó", "objeto": "6 rebotes"},
+    {"sujeto": "Laura Piera", "predicado": "anotó", "objeto": "7 puntos"},
+    {"sujeto": "Laura Piera", "predicado": "capturó", "objeto": "7 rebotes"},
+    {"sujeto": "Laura Piera", "predicado": "dio", "objeto": "3 asistencias"},
+    {"sujeto": "Laura Piera", "predicado": "logró", "objeto": "1 robo"},
+    {"sujeto": "Conchi Satorre", "predicado": "anotó", "objeto": "19 puntos"},
+    {"sujeto": "Oshlyn Brown", "predicado": "anotó", "objeto": "17 puntos"}
+]

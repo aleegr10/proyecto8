@@ -1,0 +1,6 @@
+[
+    {"sujeto": "Jordi Fernández", "predicado": "es", "objeto": "el primer entrenador español en la NBA"},
+    {"sujeto": "Jordi Fernández", "predicado": "será", "objeto": "entrenador jefe de los Brooklyn Nets"},
+    {"sujeto": "Informe G", "predicado": "es una sección de", "objeto": "Gigantes Podcast"},
+    {"sujeto": "Informe G", "predicado": "se integra en", "objeto": "el feed de los programas de Gigantes Podcast"}
+]

@@ -1,0 +1,12 @@
+[
+    {"sujeto": "Astou Ndour", "predicado": "ganó", "objeto": "cuatro medallas con la selección absoluta"},
+    {"sujeto": "Astou Ndour", "predicado": "ganó", "objeto": "tres medallas en formación"},
+    {"sujeto": "Astou Ndour", "predicado": "ganó", "objeto": "un anillo de la WNBA"},
+    {"sujeto": "Astou Ndour", "predicado": "jugó", "objeto": "Final Four de la Euroliga embarazada"},
+    {"sujeto": "Astou Ndour", "predicado": "dio a luz", "objeto": "29 de septiembre"},
+    {"sujeto": "Astou Ndour", "predicado": "se unió", "objeto": "SPAR Gran Canaria en la Liga Femenina Endesa"},
+    {"sujeto": "Astou Ndour", "predicado": "apunta", "objeto": "Juegos Olímpicos"},
+    {"sujeto": "Astou Ndour", "predicado": "planea", "objeto": "volver a Estados Unidos en verano"},
+    {"sujeto": "Astou Ndour", "predicado": "obtuvo", "objeto": "19.6 puntos y 8.6 rebotes"},
+    {"sujeto": "SPAR Gran Canaria", "predicado": "obtuvo", "objeto": "cuatro victorias seguidas antes del parón para la Copa de la Reina"}
+]

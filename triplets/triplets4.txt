@@ -1,0 +1,10 @@
+[
+    {"sujeto": "AS Mónaco", "predicado": "ganó", "objeto": "en Estambul 62-65"},
+    {"sujeto": "AS Mónaco", "predicado": "jugará", "objeto": "pase a la Final Four el miércoles en casa"},
+    {"sujeto": "Jaron Blossomgame", "predicado": "fue amonestado", "objeto": "por actos que muestran una falta de respeto hacia el público"},
+    {"sujeto": "Fenerbahce Beko Istanbul", "predicado": "fue sancionado con multas", "objeto": "por lanzamiento de objetos y la invasión de la pista"},
+    {"sujeto": "Sarunas Jasikevicius", "predicado": "pidió disculpas", "objeto": "al Mónaco y la Euroliga"},
+    {"sujeto": "Sarunas Jasikevicius", "predicado": "criticó", "objeto": "la imagen mostrada por su equipo"},
+    {"sujeto": "Sasa Obradovic", "predicado": "recordó", "objeto": "la pelea de playoffs del año pasado entre Real Madrid y Partizan"},
+    {"sujeto": "Sasa Obradovic", "predicado": "aconsejó", "objeto": "volver al vestuario en situaciones tensas"}
+]

@@ -1,0 +1,14 @@
+[
+    {"sujeto": "Juancho Hernangómez", "predicado": "fue hospitalizado después de", "objeto": "1er partido de la serie"},
+    {"sujeto": "Juancho Hernangómez", "predicado": "estará disponible para", "objeto": "5º partido"},
+    {"sujeto": "Wade Baldwin", "predicado": "arrastra lesión en", "objeto": "bíceps femoral"},
+    {"sujeto": "Wade Baldwin", "predicado": "descartado para", "objeto": "5º partido"},
+    {"sujeto": "Roman Sorkin", "predicado": "se perdió partido por", "objeto": "enfermedad"},
+    {"sujeto": "John DiBartolomeo", "predicado": "sufrió problemas en", "objeto": "hombro"},
+    {"sujeto": "Rafi Menco", "predicado": "no jugó en playoffs por", "objeto": "lesión en tobillo"},
+    {"sujeto": "John Brown", "predicado": "sufrió lesión en", "objeto": "hombro"},
+    {"sujeto": "Terry Tarpey", "predicado": "se sometió a", "objeto": "operación de rodilla"},
+    {"sujeto": "Johnathan Motley", "predicado": "sufre lesión en", "objeto": "gemelo"},
+    {"sujeto": "Michalis Lountzis", "predicado": "se perdió partidos por", "objeto": "enfermedad"},
+    {"sujeto": "Giannoulis Larentzakis", "predicado": "sufrió lesión en", "objeto": "tobillo"}
+]

@@ -1,0 +1,12 @@
+[
+    {"sujeto": "Real Madrid de baloncesto", "predicado": "participará_en", "objeto": "partido contra Valencia Basket"},
+    {"sujeto": "partido contra Valencia Basket", "predicado": "fecha", "objeto": "miércoles 1 de mayo"},
+    {"sujeto": "partido contra Valencia Basket", "predicado": "hora", "objeto": "21:00 (20:00 en Canarias)"},
+    {"sujeto": "partido contra Valencia Basket", "predicado": "transmisión", "objeto": "Movistar Plus+ y Movistar Deportes"},
+    {"sujeto": "Real Madrid de baloncesto", "predicado": "ganó", "objeto": "Supercopa Endesa"},
+    {"sujeto": "Supercopa Endesa", "predicado": "ubicación", "objeto": "Murcia"},
+    {"sujeto": "Supercopa Endesa", "predicado": "fecha", "objeto": "septiembre"},
+    {"sujeto": "Real Madrid de baloncesto", "predicado": "ganó", "objeto": "Copa del Rey"},
+    {"sujeto": "Copa del Rey", "predicado": "ubicación", "objeto": "Málaga"},
+    {"sujeto": "Copa del Rey", "predicado": "fecha", "objeto": "febrero"}
+]

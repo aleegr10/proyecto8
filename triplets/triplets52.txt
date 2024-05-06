@@ -1,0 +1,6 @@
+[
+    {"sujeto": "Los Cavs", "predicado": "salvan", "objeto": "los muebles"},
+    {"sujeto": "Valencia y Perfumerías", "predicado": "llegan a", "objeto": "la final"},
+    {"sujeto": "La pelea", "predicado": "se comprime", "objeto": "por el descenso en la Liga Endesa"},
+    {"sujeto": "Novedades", "predicado": "en", "objeto": "la cúpula de la Euroliga"}
+]

@@ -1,0 +1,12 @@
+[
+    {"sujeto": "Tiago Splitter", "predicado": "tuvo su camiseta retirada", "objeto": "Buesa Arena"},
+    {"sujeto": "Tiago Splitter", "predicado": "agradeció a", "objeto": "Josean Querejeta"},
+    {"sujeto": "Tiago Splitter", "predicado": "agradeció a", "objeto": "ciudad de Vitoria"},
+    {"sujeto": "Tiago Splitter", "predicado": "creció en", "objeto": "Vitoria"},
+    {"sujeto": "Tiago Splitter", "predicado": "agradeció a", "objeto": "Dusko"},
+    {"sujeto": "Tiago Splitter", "predicado": "agradeció a", "objeto": "Alfredo Salazar"},
+    {"sujeto": "Tiago Splitter", "predicado": "agradeció a", "objeto": "Iñaki Iriarte"},
+    {"sujeto": "Tiago Splitter", "predicado": "expresó amor por", "objeto": "todos los jugadores"},
+    {"sujeto": "Tiago Splitter", "predicado": "orgulloso de", "objeto": "tener su número representado en el Buesa Arena"},
+    {"sujeto": "Tiago Splitter", "predicado": "desea que", "objeto": "Baskonia siga arriba"}
+]

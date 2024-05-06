@@ -1,0 +1,5 @@
+[
+    {"sujeto": "Unicaja Málaga", "predicado": "perdió", "objeto": "en la cancha del Lenovo Tenerife"},
+    {"sujeto": "Marcelinho Huertas", "predicado": "fue", "objeto": "la diferencia en el juego"},
+    {"sujeto": "Unicaja Málaga", "predicado": "cedió", "objeto": "liderato de la Liga Endesa al Real Madrid"}
+]

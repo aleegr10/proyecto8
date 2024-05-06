@@ -1,0 +1,20 @@
+[
+    {"sujeto": "Hemeroteca Gigantes del Basket", "predicado": "permite acceso a", "objeto": "Mi Cuenta/ Mis revistas digitales"},
+    {"sujeto": "Hemeroteca Gigantes del Basket", "predicado": "permite uso de", "objeto": "buscador para revistas"},
+    {"sujeto": "Barça – Real Madrid duelo en la cumbre", "predicado": "publicado en", "objeto": "noviembre 1985"},
+    {"sujeto": "Aíto y Sainz", "predicado": "de acuerdo sobre", "objeto": "El Madrid"},
+    {"sujeto": "Entrevista Michael Air Jordan", "predicado": "publicada en", "objeto": "noviembre 1985"},
+    {"sujeto": "NBA Fotos Curiosas", "predicado": "publicado en", "objeto": "diciembre 1985"},
+    {"sujeto": "Joventut Badalona vibra con la Penya", "predicado": "publicado en", "objeto": "diciembre 1985"},
+    {"sujeto": "Copas de Europa. No hubo sorpresas", "predicado": "publicado en", "objeto": "diciembre 1985"},
+    {"sujeto": "Bill Walton", "predicado": "considerado traspaso del año en la NBA", "objeto": "diciembre 1985"},
+    {"sujeto": "Especial Copa del Rey", "predicado": "publicado en", "objeto": "diciembre 1985"},
+    {"sujeto": "El Barça resurgió en Madrid", "predicado": "publicado en", "objeto": "enero 1986"},
+    {"sujeto": "Concurso de mates - las mejores fotos", "predicado": "publicado en", "objeto": "enero 1986"},
+    {"sujeto": "CAI Zaragoza entre los grandes", "predicado": "publicado en", "objeto": "enero 1986"},
+    {"sujeto": "Drazen Petrovic", "predicado": "declaró jugaría solo en", "objeto": "Real Madrid"},
+    {"sujeto": "Con el Real Madrid en URSS", "predicado": "publicado en", "objeto": "febrero 1986"},
+    {"sujeto": "Mark Smith", "predicado": "declaró estar feliz en", "objeto": "Barça"},
+    {"sujeto": "Larry Bird", "predicado": "considerado el mejor del mundo en", "objeto": "febrero 1986"},
+    {"sujeto": "Especial All Star", "predicado": "publicado como", "objeto": "El Este ganó al Oeste slam dunk protagonistas"}
+]

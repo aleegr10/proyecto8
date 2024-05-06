@@ -1,0 +1,12 @@
+[
+    {"sujeto": "Perfumerías Avenida", "predicado": "clasificado para", "objeto": "final de la LF Endesa 2024"},
+    {"sujeto": "Valencia Basket", "predicado": "clasificado para", "objeto": "final de la LF Endesa 2024"},
+    {"sujeto": "Perfumerías Avenida y Valencia Basket", "predicado": "disputarán", "objeto": "final de la LF Endesa 2024"},
+    {"sujeto": "Perfumerías Avenida", "predicado": "venció", "objeto": "en semifinales LF Endesa 2024"},
+    {"sujeto": "Valencia Basket", "predicado": "venció", "objeto": "en semifinales LF Endesa 2024"},
+    {"sujeto": "Perfumerías Avenida", "predicado": "se jugará en", "objeto": "Salamanca"},
+    {"sujeto": "Valencia Basket", "predicado": "se jugará en", "objeto": "Valencia"},
+    {"sujeto": "Perfumerías Avenida", "predicado": "participará", "objeto": "EuroLeague Women 24-25"},
+    {"sujeto": "Valencia Basket", "predicado": "participará", "objeto": "EuroLeague Women 24-25"},
+    {"sujeto": "Casademont Zaragoza", "predicado": "posible participante", "objeto": "EuroLeague Women 24-25"}
+]

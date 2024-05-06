@@ -1,0 +1,12 @@
+[
+    {"sujeto": "Real Madrid", "predicado": "jugará contra", "objeto": "Baskonia"},
+    {"sujeto": "Panathinaikos", "predicado": "jugará contra", "objeto": "Maccabi Tel Aviv"},
+    {"sujeto": "AS Monaco", "predicado": "jugará contra", "objeto": "Fenerbahçe"},
+    {"sujeto": "Barça", "predicado": "jugará contra", "objeto": "Olympiacos"},
+    {"sujeto": "Real Madrid", "predicado": "se medirá en partido", "objeto": "1 el 23 abril a las 21:00h"},
+    {"sujeto": "Panathinaikos", "predicado": "se medirá en partido", "objeto": "1 el 23 abril a las 19:30h"},
+    {"sujeto": "AS Monaco", "predicado": "se medirá en partido", "objeto": "1 el 24 abril a las 19:00h"},
+    {"sujeto": "FC Barcelona", "predicado": "se medirá en partido", "objeto": "1 el 24 abril a las 21:00h"},
+    {"sujeto": "Final Four de la Euroliga 2024", "predicado": "se jugará en", "objeto": "Uber Arena de Berlín"},
+    {"sujeto": "Final Four de la Euroliga 2024", "predicado": "se jugará entre", "objeto": "el 24 y el 26 de mayo"}
+]

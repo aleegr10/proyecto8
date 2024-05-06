@@ -1,0 +1,9 @@
+[
+    {"sujeto": "Zona de Gigantes", "predicado": "es parte de", "objeto": "Gigantes Podcast"},
+    {"sujeto": "Gigantes Podcast", "predicado": "forma parte de", "objeto": "Gigantes del Basket"},
+    {"sujeto": "Zona de Gigantes", "predicado": "aborda", "objeto": "baloncesto español y europeo"},
+    {"sujeto": "Zona de Gigantes", "predicado": "publica episodios los", "objeto": "miércoles y jueves"},
+    {"sujeto": "Zona de Gigantes", "predicado": "cuenta con", "objeto": "Piti Hurtado, Sergio Vegas, Luis Hidalgo, Luis Vallejo, Álex Madrid, David Sardinero"},
+    {"sujeto": "Gigantes Podcast", "predicado": "ofrece", "objeto": "contenido riguroso, especializado"},
+    {"sujeto": "Zona de Gigantes", "predicado": "tiene episodios en", "objeto": "Spotify, iVoox, Apple Podcast, Spreaker, Amazon Music"}
+]

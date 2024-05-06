@@ -1,0 +1,5 @@
+[
+    {"sujeto": "GIGANTES DEL BASKET S.L", "predicado": "está localizada en", "objeto": "C/ Velázquez 126, 6º Izq., 28009 Madrid"},
+    {"sujeto": "GIGANTES DEL BASKET S.L", "predicado": "tiene email", "objeto": "lopd@gigantes.com"},
+    {"sujeto": "Gigantes del Basket", "predicado": "gestiona", "objeto": "preinscripción al Club Gigantes 1985"}
+]

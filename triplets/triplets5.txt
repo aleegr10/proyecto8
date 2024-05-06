@@ -1,0 +1,7 @@
+[
+    {"sujeto": "Publicidad y marketing", "predicado": "correo electrónico", "objeto": "arantza.jimenez@gigantes.com"},
+    {"sujeto": "Suscripciones, envíos e incidencias", "predicado": "correo electrónico", "objeto": "suscripciones@gigantes.com"},
+    {"sujeto": "Redacción", "predicado": "correo electrónico", "objeto": "redaccion@gigantes.com"},
+    {"sujeto": "Gigantes", "predicado": "direccion", "objeto": "Velazquez nº126 6ºA I, 28006 Madrid"},
+    {"sujeto": "Gigantes", "predicado": "teléfono", "objeto": "91-082 85 42"}
+]

@@ -1,0 +1,11 @@
+[
+    {"sujeto": "Pablo Laso", "predicado": "imparte", "objeto": "curso completo en Pablo Laso Training Camp"},
+    {"sujeto": "Pablo Laso", "predicado": "imparte", "objeto": "master class en Gigantes Formación"},
+    {"sujeto": "Paco Redondo", "predicado": "imparte", "objeto": "curso en Gigantes Formación"},
+    {"sujeto": "Óscar de Paula", "predicado": "imparte", "objeto": "curso en Gigantes Formación"},
+    {"sujeto": "Nacho Juan", "predicado": "imparte", "objeto": "curso en Gigantes Formación"},
+    {"sujeto": "Juan Trapero", "predicado": "imparte", "objeto": "curso en Gigantes Formación"},
+    {"sujeto": "Oscar Lata", "predicado": "imparte", "objeto": "curso en Gigantes Formación"},
+    {"sujeto": "Pedro Rivero", "predicado": "imparte", "objeto": "curso en Gigantes Formación"},
+    {"sujeto": "Lolo Encinas", "predicado": "imparte", "objeto": "curso en Gigantes Formación"}
+]

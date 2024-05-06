@@ -1,0 +1,9 @@
+[
+    {"sujeto": "Leyma Coruña", "predicado": "venció a", "objeto": "Amics Castelló"},
+    {"sujeto": "Longevida San Pablo Burgos", "predicado": "venció a", "objeto": "Baloncesto Fuenlabrada"},
+    {"sujeto": "ICG Força Lleida", "predicado": "venció a", "objeto": "Cáceres Patrimonio de la Humanidad"},
+    {"sujeto": "Leyma Coruña", "predicado": "ascenderá a", "objeto": "Liga Endesa"},
+    {"sujeto": "Leyma Coruña", "predicado": "gana", "objeto": "Melilla Ciudad del Deporte"},
+    {"sujeto": "Longevida San Pablo Burgos", "predicado": "gana", "objeto": "HLA Alicante"},
+    {"sujeto": "ICG Força Lleida", "predicado": "gana", "objeto": "Hestia Menorca"}
+]

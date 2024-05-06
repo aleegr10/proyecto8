@@ -1,0 +1,18 @@
+[
+    {"sujeto": "Los Clippers", "predicado": "mantienen", "objeto": "Kawhi Leonard"},
+    {"sujeto": "Los Clippers", "predicado": "objetivo retener", "objeto": "Ty Lue"},
+    {"sujeto": "Kawhi Leonard", "predicado": "tiene contrato", "objeto": "hasta 2027"},
+    {"sujeto": "Norman Powell", "predicado": "tiene contrato", "objeto": "hasta 2026"},
+    {"sujeto": "Ivica Zubac", "predicado": "tiene contrato", "objeto": "hasta 2025"},
+    {"sujeto": "Amir Coffey", "predicado": "tiene contrato", "objeto": "hasta 2025"},
+    {"sujeto": "Kobe Brown", "predicado": "tiene contrato", "objeto": "hasta 2027"},
+    {"sujeto": "Bones Hyland", "predicado": "tiene contrato", "objeto": "hasta 2025"},
+    {"sujeto": "Paul George", "predicado": "tiene opción de jugador", "objeto": "2024-25"},
+    {"sujeto": "PJ Tucker", "predicado": "tiene opción de jugador", "objeto": "2024-25"},
+    {"sujeto": "Russell Westbrook", "predicado": "tiene opción de jugador", "objeto": "2024-25"},
+    {"sujeto": "Kai Jones", "predicado": "tiene opción de equipo", "objeto": "2024-25"},
+    {"sujeto": "Paul George", "predicado": "considera", "objeto": "aceptar opción o firmar extensión"},
+    {"sujeto": "James Harden", "predicado": "prepara", "objeto": "su último gran contrato"},
+    {"sujeto": "James Harden", "predicado": "ha sido crucial", "objeto": "en temporada alta de febrero"},
+    {"sujeto": "Paul George", "predicado": "podría regresar", "objeto": "aceptando opción o firmando extensión"}
+]

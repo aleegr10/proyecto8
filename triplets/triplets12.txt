@@ -1,0 +1,12 @@
+[
+    {"sujeto": "Baskonia", "predicado": "fue derrotado por", "objeto": "Bàsquet Girona"},
+    {"sujeto": "Partido", "predicado": "complicó", "objeto": "opciones de Baskonia para playoffs"},
+    {"sujeto": "Dusko Ivanovic", "predicado": "dio rueda de prensa", "objeto": "tras derrota"},
+    {"sujeto": "Bàsquet Girona", "predicado": "tenía", "objeto": "permanencia asegurada"},
+    {"sujeto": "Codi", "predicado": "juega con", "objeto": "muchos problemas"},
+    {"sujeto": "Chima", "predicado": "no jugará", "objeto": "próximo partido"},
+    {"sujeto": "Tiago Splitter", "predicado": "fue visto en", "objeto": "Buesa Arena"},
+    {"sujeto": "Baskonia", "predicado": "depende de", "objeto": "sí mismo para próximos partidos"},
+    {"sujeto": "Markus Howard", "predicado": "anotó", "objeto": "30 puntos"},
+    {"sujeto": "Bàsquet Girona", "predicado": "ganó", "objeto": "92-96"}
+]

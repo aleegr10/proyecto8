@@ -1,0 +1,9 @@
+[
+    {"sujeto": "Movistar Plus+", "predicado": "posee", "objeto": "derechos de retransmisión de la NBA en España"},
+    {"sujeto": "Movistar Plus+", "predicado": "garantiza", "objeto": "un partido por noche durante NBA Playoffs 2024"},
+    {"sujeto": "Movistar Plus+", "predicado": "incluye canal", "objeto": "MDeportes"},
+    {"sujeto": "Movistar Plus+", "predicado": "incluye canal", "objeto": "#Vamos"},
+    {"sujeto": "MDeportes", "predicado": "transmite", "objeto": "Knicks vs. Pacers el 7 de mayo a las 1:30"},
+    {"sujeto": "MDeportes", "predicado": "transmite", "objeto": "Celtics vs. Cavs el 8 de mayo a las 1:00"},
+    {"sujeto": "NBA League Pass", "predicado": "ofrece", "objeto": "streaming online de partidos de NBA"}
+]

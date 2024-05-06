@@ -1,0 +1,13 @@
+[
+    {"sujeto": "Club", "predicado": "pierde", "objeto": "Licencia A de Euroliga si termina último en Euroliga en tres temporadas distintas"},
+    {"sujeto": "Club", "predicado": "pierde", "objeto": "Licencia A de Euroliga si deja de cumplir requisitos de Normas de Licencia"},
+    {"sujeto": "Club", "predicado": "pierde", "objeto": "Licencia A de Euroliga si incumple obligaciones con Socios"},
+    {"sujeto": "Club", "predicado": "pierde", "objeto": "Licencia A de Euroliga si termina en mitad inferior de su Campeonato Nacional"},
+    {"sujeto": "Club", "predicado": "pierde", "objeto": "Licencia A de Euroliga si no alcanza 80% de asistencia en dos temporadas consecutivas"},
+    {"sujeto": "Club", "predicado": "pierde", "objeto": "Licencia A de Euroliga por incumplimiento de Estabilidad Financiera y Fair Play"},
+    {"sujeto": "Club", "predicado": "pierde", "objeto": "Licencia A de Euroliga si no se cumplen expectativas de venta de derechos audiovisuales"},
+    {"sujeto": "Club", "predicado": "pierde", "objeto": "Licencia A de Euroliga si es sancionado con prohibicion en competiciones de EuroLeague Basketball"},
+    {"sujeto": "Club", "predicado": "pierde", "objeto": "estatus de miembro de Euroliga al perder Licencia A"},
+    {"sujeto": "Club", "predicado": "debe", "objeto": "vender sus acciones si pierde Licencia A"},
+    {"sujeto": "ECA", "predicado": "puede proponer", "objeto": "sustitución de plaza por wildcard en caso de vacante"}
+]

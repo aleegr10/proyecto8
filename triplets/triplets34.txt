@@ -1,0 +1,13 @@
+[
+    {"sujeto": "Baskonia", "predicado": "fue eliminado de", "objeto": "playoffs de la Euroliga"},
+    {"sujeto": "Real Madrid", "predicado": "ganó", "objeto": "a Baskonia en el tercer partido de los playoffs"},
+    {"sujeto": "Dusko Ivanovic", "predicado": "felicitó", "objeto": "al Real Madrid"},
+    {"sujeto": "Dusko Ivanovic", "predicado": "felicitó", "objeto": "a sus jugadores"},
+    {"sujeto": "Baskonia", "predicado": "entró en playoffs", "objeto": "después de cinco años"},
+    {"sujeto": "Baskonia", "predicado": "finalizó entre los", "objeto": "ocho mejores de Europa"},
+    {"sujeto": "Dusko Ivanovic", "predicado": "agradeció", "objeto": "el apoyo del público"},
+    {"sujeto": "Baskonia", "predicado": "se centrará en", "objeto": "la Liga Endesa"},
+    {"sujeto": "Baskonia", "predicado": "jugará en el Buesa Arena contra", "objeto": "Bàsquet Girona"},
+    {"sujeto": "Baskonia", "predicado": "jugará en el Buesa Arena contra", "objeto": "UCAM Murcia"},
+    {"sujeto": "Baskonia", "predicado": "visitará", "objeto": "al Real Madrid en el WiZink Center"}
+]

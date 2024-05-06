@@ -1,0 +1,12 @@
+[
+    {"sujeto": "Política de cookies", "predicado": "aplica a", "objeto": "ciudadanos y residentes legales permanentes del Espacio Económico Europeo y Suiza"},
+    {"sujeto": "https://www.gigantes.com", "predicado": "usa", "objeto": "cookies y otras tecnologías"},
+    {"sujeto": "https://www.gigantes.com", "predicado": "incluye contenido de", "objeto": "Facebook y Twitter"},
+    {"sujeto": "cookies funcionales", "predicado": "facilitan", "objeto": "visita a la web"},
+    {"sujeto": "cookies estadísticas", "predicado": "optimizan", "objeto": "experiencia web para usuarios"},
+    {"sujeto": "cookies publicitarias", "predicado": "personalizan", "objeto": "anuncios para el usuario"},
+    {"sujeto": "cookies de marketing/seguimiento", "predicado": "crean", "objeto": "perfiles de usuario para mostrar publicidad"},
+    {"sujeto": "GIGANTES DEL BASKET S.L.", "predicado": "ubicado en", "objeto": "CALLE VELAZQUEZ 126, 6 IZQUIERDA, 28009, MADRID"},
+    {"sujeto": "Política de cookies", "predicado": "sincronizada con", "objeto": "cookiedatabase.org"},
+    {"sujeto": "GIGANTES DEL BASKET S.L.", "predicado": "ofrece contacto vía", "objeto": "lopd@gigantes.com"}
+]

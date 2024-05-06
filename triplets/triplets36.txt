@@ -1,0 +1,22 @@
+[
+    {"sujeto": "Philadelphia Warriors", "predicado": "ganaron a", "objeto": "St. Louis Bombers"},
+    {"sujeto": "Mavs", "predicado": "ganaron a", "objeto": "Rockets"},
+    {"sujeto": "Boston Celtics", "predicado": "ganaron diez Game 7", "objeto": "entre 1957 y 1969"},
+    {"sujeto": "Boston Celtics", "predicado": "ganaron en", "objeto": "Spectrum de Philadelphia"},
+    {"sujeto": "Bill Russell y Sam Jones", "predicado": "ganaron el último Game 7 de sus carreras", "objeto": "en 1969"},
+    {"sujeto": "Jerry West", "predicado": "fue", "objeto": "primer Finals MVP"},
+    {"sujeto": "Walt Frazier", "predicado": "destacó en Game 7 en", "objeto": "Madison"},
+    {"sujeto": "Celtics", "predicado": "ganaron a", "objeto": "Bucks"},
+    {"sujeto": "Washington", "predicado": "ganó a", "objeto": "Seattle"},
+    {"sujeto": "Cavs de LeBron", "predicado": "ganaron a", "objeto": "Warriors en 2016"},
+    {"sujeto": "Lakers", "predicado": "rompieron maldición verde", "objeto": "1987"},
+    {"sujeto": "Dominique Wilkins", "predicado": "anotó", "objeto": "47 puntos en Game 7"},
+    {"sujeto": "Lakers", "predicado": "ganaron back to back", "objeto": "1988"},
+    {"sujeto": "James Worthy", "predicado": "logró triple doble contra", "objeto": "Detroit Pistons"},
+    {"sujeto": "Blazers", "predicado": "ganaron a", "objeto": "Spurs en 1990"},
+    {"sujeto": "Knicks", "predicado": "ganaron a", "objeto": "Bulls y Pacers en 1994"},
+    {"sujeto": "Rockets", "predicado": "ganaron a", "objeto": "Knicks en 1994"},
+    {"sujeto": "Pau Gasol", "predicado": "ganó todos los Game 7 que jugó", "objeto": "con los Lakers"},
+    {"sujeto": "Marc Gasol", "predicado": "experimentó victorias y derrotas en Game 7", "objeto": "con los Grizzlies y los Raptors"},
+    {"sujeto": "Leonard", "predicado": "anotó una de las canastas ganadoras más increíbles", "objeto": "a los 76ers en 2019"}
+]

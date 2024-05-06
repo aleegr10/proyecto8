@@ -1,0 +1,8 @@
+[
+    {"sujeto": "Spar Girona", "predicado": "ganó a", "objeto": "Perfumerías Avenida"},
+    {"sujeto": "Valencia Basket", "predicado": "ganó a", "objeto": "Casademont Zaragoza"},
+    {"sujeto": "Perfumerías Avenida", "predicado": "ganó a", "objeto": "BAXI Ferrol"},
+    {"sujeto": "Valencia Basket", "predicado": "ganó a", "objeto": "IDK Euskotren"},
+    {"sujeto": "Casademont Zaragoza", "predicado": "ganó a", "objeto": "Movistar Estudiantes"},
+    {"sujeto": "Spar Girona", "predicado": "ganó a", "objeto": "Hozono Global Jairis"}
+]
